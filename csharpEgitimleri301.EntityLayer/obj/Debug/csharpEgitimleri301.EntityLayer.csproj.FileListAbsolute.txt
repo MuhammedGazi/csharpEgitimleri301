@@ -4,3 +4,9 @@ C:\Users\Muhammed Gazi Çelenk\source\repos\csharpEgitimleri301\csharpEgitimleri
 C:\Users\Muhammed Gazi Çelenk\source\repos\csharpEgitimleri301\csharpEgitimleri301.EntityLayer\obj\Debug\csharpEgitimleri301.EntityLayer.csproj.CoreCompileInputs.cache
 C:\Users\Muhammed Gazi Çelenk\source\repos\csharpEgitimleri301\csharpEgitimleri301.EntityLayer\obj\Debug\csharpEgitimleri301.EntityLayer.dll
 C:\Users\Muhammed Gazi Çelenk\source\repos\csharpEgitimleri301\csharpEgitimleri301.EntityLayer\obj\Debug\csharpEgitimleri301.EntityLayer.pdb
+C:\Users\Muhammed Gazi Çelenk\source\repos\csharpEgitimleri301\csharpEgitimleri301.EntityLayer\bin\Debug\csharpEgitimleri301.EntityLayer.dll.config
+C:\Users\Muhammed Gazi Çelenk\source\repos\csharpEgitimleri301\csharpEgitimleri301.EntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\Muhammed Gazi Çelenk\source\repos\csharpEgitimleri301\csharpEgitimleri301.EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Muhammed Gazi Çelenk\source\repos\csharpEgitimleri301\csharpEgitimleri301.EntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\Muhammed Gazi Çelenk\source\repos\csharpEgitimleri301\csharpEgitimleri301.EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Muhammed Gazi Çelenk\source\repos\csharpEgitimleri301\csharpEgitimleri301.EntityLayer\obj\Debug\csharpEg.D122DE6C.Up2Date

@@ -1,0 +1,17 @@
+C:\Users\Muhammed Gazi Çelenk\source\repos\csharpEgitimleri301\csharpEgitimleri301.DataAccessLayer\bin\Debug\csharpEgitimleri301.DataAccessLayer.dll.config
+C:\Users\Muhammed Gazi Çelenk\source\repos\csharpEgitimleri301\csharpEgitimleri301.DataAccessLayer\bin\Debug\csharpEgitimleri301.DataAccessLayer.dll
+C:\Users\Muhammed Gazi Çelenk\source\repos\csharpEgitimleri301\csharpEgitimleri301.DataAccessLayer\bin\Debug\csharpEgitimleri301.DataAccessLayer.pdb
+C:\Users\Muhammed Gazi Çelenk\source\repos\csharpEgitimleri301\csharpEgitimleri301.DataAccessLayer\bin\Debug\csharpEgitimleri301.EntityLayer.dll
+C:\Users\Muhammed Gazi Çelenk\source\repos\csharpEgitimleri301\csharpEgitimleri301.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Muhammed Gazi Çelenk\source\repos\csharpEgitimleri301\csharpEgitimleri301.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Muhammed Gazi Çelenk\source\repos\csharpEgitimleri301\csharpEgitimleri301.DataAccessLayer\bin\Debug\csharpEgitimleri301.EntityLayer.pdb
+C:\Users\Muhammed Gazi Çelenk\source\repos\csharpEgitimleri301\csharpEgitimleri301.DataAccessLayer\bin\Debug\csharpEgitimleri301.EntityLayer.dll.config
+C:\Users\Muhammed Gazi Çelenk\source\repos\csharpEgitimleri301\csharpEgitimleri301.DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Muhammed Gazi Çelenk\source\repos\csharpEgitimleri301\csharpEgitimleri301.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Muhammed Gazi Çelenk\source\repos\csharpEgitimleri301\csharpEgitimleri301.DataAccessLayer\obj\Debug\csharpEgitimleri301.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Muhammed Gazi Çelenk\source\repos\csharpEgitimleri301\csharpEgitimleri301.DataAccessLayer\obj\Debug\csharpEgitimleri301.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Gazi Çelenk\source\repos\csharpEgitimleri301\csharpEgitimleri301.DataAccessLayer\obj\Debug\csharpEg.2C37622A.Up2Date
+C:\Users\Muhammed Gazi Çelenk\source\repos\csharpEgitimleri301\csharpEgitimleri301.DataAccessLayer\obj\Debug\csharpEgitimleri301.DataAccessLayer.dll
+C:\Users\Muhammed Gazi Çelenk\source\repos\csharpEgitimleri301\csharpEgitimleri301.DataAccessLayer\obj\Debug\csharpEgitimleri301.DataAccessLayer.pdb
+C:\Users\Muhammed Gazi Çelenk\source\repos\csharpEgitimleri301\csharpEgitimleri301.DataAccessLayer\obj\Debug\csharpEgitimleri301.DataAccessLayer.Migrations.mig1.resources
+C:\Users\Muhammed Gazi Çelenk\source\repos\csharpEgitimleri301\csharpEgitimleri301.DataAccessLayer\obj\Debug\csharpEgitimleri301.DataAccessLayer.csproj.GenerateResource.cache
