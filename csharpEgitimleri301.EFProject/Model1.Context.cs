@@ -13,10 +13,10 @@ namespace csharpEgitimleri301.EFProject
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class csharpEgitimEFTravelDBEntities : DbContext
+    public partial class csharpEgitimEFTravelDBEntities1 : DbContext
     {
-        public csharpEgitimEFTravelDBEntities()
-            : base("name=csharpEgitimEFTravelDBEntities")
+        public csharpEgitimEFTravelDBEntities1()
+            : base("name=csharpEgitimEFTravelDBEntities1")
         {
         }
     
@@ -25,6 +25,7 @@ namespace csharpEgitimleri301.EFProject
             throw new UnintentionalCodeFirstException();
         }
     
+        public virtual DbSet<Admin> Admin { get; set; }
         public virtual DbSet<Customer> Customer { get; set; }
         public virtual DbSet<Guide> Guide { get; set; }
         public virtual DbSet<Location> Location { get; set; }

@@ -1,0 +1,16 @@
+C:\Users\Muhammed Gazi Çelenk\source\repos\csharpEgitimleri301\csharpEgitimleri301.EFProject\obj\Debug\csharpEgitimleri301.EFProject.csproj.AssemblyReference.cache
+C:\Users\Muhammed Gazi Çelenk\source\repos\csharpEgitimleri301\csharpEgitimleri301.EFProject\obj\Debug\csharpEgitimleri301.EFProject.Properties.Resources.resources
+C:\Users\Muhammed Gazi Çelenk\source\repos\csharpEgitimleri301\csharpEgitimleri301.EFProject\obj\Debug\csharpEgitimleri301.EFProject.Form1.resources
+C:\Users\Muhammed Gazi Çelenk\source\repos\csharpEgitimleri301\csharpEgitimleri301.EFProject\obj\Debug\csharpEgitimleri301.EFProject.csproj.GenerateResource.cache
+C:\Users\Muhammed Gazi Çelenk\source\repos\csharpEgitimleri301\csharpEgitimleri301.EFProject\obj\Debug\csharpEgitimleri301.EFProject.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Gazi Çelenk\source\repos\csharpEgitimleri301\csharpEgitimleri301.EFProject\bin\Debug\csharpEgitimleri301.EFProject.exe.config
+C:\Users\Muhammed Gazi Çelenk\source\repos\csharpEgitimleri301\csharpEgitimleri301.EFProject\bin\Debug\csharpEgitimleri301.EFProject.exe
+C:\Users\Muhammed Gazi Çelenk\source\repos\csharpEgitimleri301\csharpEgitimleri301.EFProject\bin\Debug\csharpEgitimleri301.EFProject.pdb
+C:\Users\Muhammed Gazi Çelenk\source\repos\csharpEgitimleri301\csharpEgitimleri301.EFProject\bin\Debug\EntityFramework.dll
+C:\Users\Muhammed Gazi Çelenk\source\repos\csharpEgitimleri301\csharpEgitimleri301.EFProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Muhammed Gazi Çelenk\source\repos\csharpEgitimleri301\csharpEgitimleri301.EFProject\bin\Debug\EntityFramework.xml
+C:\Users\Muhammed Gazi Çelenk\source\repos\csharpEgitimleri301\csharpEgitimleri301.EFProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Muhammed Gazi Çelenk\source\repos\csharpEgitimleri301\csharpEgitimleri301.EFProject\obj\Debug\csharpEg.59F48C84.Up2Date
+C:\Users\Muhammed Gazi Çelenk\source\repos\csharpEgitimleri301\csharpEgitimleri301.EFProject\obj\Debug\csharpEgitimleri301.EFProject.exe
+C:\Users\Muhammed Gazi Çelenk\source\repos\csharpEgitimleri301\csharpEgitimleri301.EFProject\obj\Debug\csharpEgitimleri301.EFProject.pdb
+C:\Users\Muhammed Gazi Çelenk\source\repos\csharpEgitimleri301\csharpEgitimleri301.EFProject\obj\Debug\csharpEgitimleri301.EFProject.Form2.resources
